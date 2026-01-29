@@ -13,8 +13,6 @@ box-sizing: border-box;
   justify-content: space-between;
   padding: 0 40px;
   min-height: 90px;
-  border-top-left-radius: 16px;
-  border-top-right-radius: 16px;
 }
 .logo img{
   max-width: 130px;
